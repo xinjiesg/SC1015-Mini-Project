@@ -26,8 +26,8 @@ The entire code in Jupyter Notebook can be found [here!](https://github.com/)
 
 ## 2. Contributors
 -   @[xinjiesg](https://github.com/xinjiesg): **Xin Jie** - Problem Definition, and Model Research
--   @[xinjiesg](https://github.com/): **Abraham Sim** - EDA, Data Visualization, and Insights
--   @[xinjiesg](https://github.com/): **Min Khant Kyaw** - Code Combination, and Video Presentation
+-   @[](https://github.com/): **Abraham Sim** - EDA, Data Visualization, and Insights
+-   @[](https://github.com/): **Min Khant Kyaw** - Code Combination, and Video Presentation
 
 
 ## 3. Dataset
