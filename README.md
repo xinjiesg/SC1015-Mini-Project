@@ -22,7 +22,7 @@ Hi everyone, this is a mini project for the course of SC1015, Introduction to Da
 
 In the project, it includes our motivation, an in-depth analysis of our data exploration and the algorithms that we have chosen and last, but not least our findings after the project.
 
-The entire code in Jupyter Notebook can be found [here!](https://github.com/)
+The entire code in Jupyter Notebook can be found [here!](https://github.com/xinjiesg/SC1015-Mini-Project/blob/main/DSCi%20Group%20L%20finalv2.ipynb)
 
 ## 2. Contributors
 -   @[xinjiesg](https://github.com/xinjiesg): **Xin Jie** - Problem Definition, and Model Research
