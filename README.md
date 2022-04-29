@@ -18,7 +18,7 @@
 
 
 ## 1. Introduction
-Hi everyone, this is a Mini-Project for Nanyang Technological University Singapore's course of SC1015, Introduction to Data Science and Artificial Intelligence.
+Hi everyone👋, this is a Mini-Project for Nanyang Technological University Singapore's course of SC1015, Introduction to Data Science and Artificial Intelligence.
 
 In the project, it includes our motivation, an in-depth analysis of our data exploration and the algorithms that we have chosen and last, but not least our findings after the project.
 
